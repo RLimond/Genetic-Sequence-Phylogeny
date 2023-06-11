@@ -1,2 +1,2 @@
 # Genetic-Sequence-Phylogeny
-implementation of the Neighbor Joining algorithm to construct a phylogenetic tree based on genetic sequences
+This repository contains a Python program that implements the Neighbor Joining algorithm to construct a phylogenetic tree based on genetic sequences. The program reads input sequences, calculates differences, and generates a phylogenetic tree representation. It provides functionality to create difference matrices, write output files, and visualize the tree. Explore evolutionary relationships among genetic sequences using this tool.
