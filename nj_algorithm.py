@@ -1,9 +1,9 @@
 from tree import Tree
 import sys
 
-# I ran the program on commandline with 'nj_algorithm.py [inputfile]'
+# run the program on windows commandline with 'python nj_algorithm.py [inputfile]'
 
-# I had trouble getting the scikit-bio to work so I just made a basic Tree class
+# a basic Tree class is used for the tree
 # a node in Tree has an id,parent,distance to parent, and a list of children
 # the root has null value for parent, 0.0 for distance, and every node defaults to empty children list.
 
