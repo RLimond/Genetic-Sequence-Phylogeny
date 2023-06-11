@@ -25,3 +25,7 @@ This file can be visualized using an online tool such as the etoolkit viewer: ht
 The example2 tree is visualized as:
 ![image](https://github.com/RLimond/Genetic-Sequence-Phylogeny/assets/129456338/0f1632a3-aa63-440a-b14e-301b3c2c7981)
 
+The long_example can be visualized as:
+![image](https://github.com/RLimond/Genetic-Sequence-Phylogeny/assets/129456338/9cebab09-b533-4249-b18a-1645303605a7)
+
+
