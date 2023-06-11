@@ -2,7 +2,8 @@
 This repository contains a Python program that implements the Neighbor Joining algorithm to construct a phylogenetic tree based on genetic sequences. The program reads input sequences, calculates differences, and generates a phylogenetic tree representation. It provides functionality to create difference matrices, write output files, and visualize the tree. Explore evolutionary relationships among genetic sequences using this tool.
 
 # Output
-The edge file: \ 
+The edge file:
+
 Provides a tabular representation of the relationships, where each line represents an edge. The parent and child nodes are specified by their IDs, and the distance between them is provided as a numerical value.\
 
 The genetic distances file: \
